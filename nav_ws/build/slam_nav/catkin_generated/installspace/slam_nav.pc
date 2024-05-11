@@ -1,0 +1,8 @@
+prefix=/root/nav_ws/install
+
+Name: slam_nav
+Description: Description of slam_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
